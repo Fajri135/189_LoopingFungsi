@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189_LoopingFor", "189_Loopi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189_WhileLooping", "..\189_WhileLooping\189_WhileLooping.vcxproj", "{BEA8532A-54AE-4EA5-A2BE-17F43E4710E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189_WhileDoLooping", "..\189_WhileDoLooping\189_WhileDoLooping.vcxproj", "{31D7241C-BCC7-4191-9567-E905D917AD23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BEA8532A-54AE-4EA5-A2BE-17F43E4710E1}.Release|x64.Build.0 = Release|x64
 		{BEA8532A-54AE-4EA5-A2BE-17F43E4710E1}.Release|x86.ActiveCfg = Release|Win32
 		{BEA8532A-54AE-4EA5-A2BE-17F43E4710E1}.Release|x86.Build.0 = Release|Win32
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Debug|x64.ActiveCfg = Debug|x64
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Debug|x64.Build.0 = Debug|x64
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Debug|x86.ActiveCfg = Debug|Win32
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Debug|x86.Build.0 = Debug|Win32
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Release|x64.ActiveCfg = Release|x64
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Release|x64.Build.0 = Release|x64
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Release|x86.ActiveCfg = Release|Win32
+		{31D7241C-BCC7-4191-9567-E905D917AD23}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
